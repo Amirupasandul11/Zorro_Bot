@@ -11,14 +11,13 @@
     "termux",
     "whatsapp",
     "2022",
-    "GojoSatoru",
+    "Zorro.001",
     "base",
-    "baileys-md",
     "bot",
     "bot-md",
     "multi-device"
   ],
-  "author": "NexusNw",
+  "author": "Zorro.001",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.0.1",
@@ -65,10 +64,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nexusNw/Gojo-Satoru.git"
+    "url": "git+https://github.com/Amirupasandul11/Zorro_Bot.git"
   },
   "bugs": {
-    "url": "https://github.com/nexusNw/Gojo-Satoru/issues"
+    "url": "https://github.com/Amirupasandul11/Zorro_Bot/issues"
   },
-  "homepage": "https://github.com/nexusNw/Gojo-Satoru#readme"
+  "homepage": "https://github.com/Amirupasandul11/Zorro_Bot#readme"
 }
